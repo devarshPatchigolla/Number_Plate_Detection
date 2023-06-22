@@ -18,3 +18,8 @@ Create a new environment
 ```
  pip install -r requirements.txt
 ```
+
+
+
+https://github.com/devarshPatchigolla/Number_Plate_Detection/assets/128964889/18961daf-9b8b-4289-af13-78a253c98841
+
